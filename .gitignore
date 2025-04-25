@@ -1,0 +1,34 @@
+# ====================
+# .NET (backend)
+# ====================
+# bin y obj de proyectos .NET
+/backend/**/bin/
+/backend/**/obj/
+
+# configuraciones de Visual Studio
+*.user
+*.vs/
+.vscode/
+
+# ====================
+# Node/Angular (frontend)
+# ====================
+# dependencias
+/frontend/node_modules/
+
+# builds
+/frontend/dist/
+/frontend/.angular/
+
+# ambiente
+.env
+
+# ====================
+# Archivos comunes
+# ====================
+# logs
+*.log
+
+# sistema
+.DS_Store
+Thumbs.db
