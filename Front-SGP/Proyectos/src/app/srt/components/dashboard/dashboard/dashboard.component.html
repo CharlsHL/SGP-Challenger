@@ -1,0 +1,21 @@
+<!-- dashboard.component.html -->
+<div class="dashboard-container">
+    <!-- Barra Lateral -->
+    <div class="sidebar">
+      <ul>
+        <li><a routerLink="inicio">Inicio</a></li>
+        <li><a routerLink="usuarios">Usuarios</a></li>
+        <li><a routerLink="proyectos">Proyectos</a></li>
+      </ul>
+    </div>
+  
+    <!-- Contenido Principal -->
+    <div class="main-content">
+      <div class="topbar">
+        <button (click)="cerrarSesion()">Cerrar Sesión</button>
+      </div>
+  
+      <router-outlet></router-outlet> <!-- Rutas hijas del Dashboard -->
+    </div>
+  </div>
+  

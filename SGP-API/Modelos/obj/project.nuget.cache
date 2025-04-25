@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dr/3XzGZiVY=",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\SGP\\SGP-API\\Modelos\\Modelos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Playerunknows's\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Playerunknows's\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

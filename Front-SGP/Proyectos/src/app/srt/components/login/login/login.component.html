@@ -1,0 +1,32 @@
+<div class="p-grid fullscreen-center">
+    <div class="p-col-12 p-md-6">
+      <div class="p-card login-card">
+        <div class="p-card-header">
+          <h3>Login</h3>
+        </div>
+        <div class="p-card-body">
+          <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+            <div class="p-field">
+              <label for="username">Username</label>
+              <input id="username" pInputText formControlName="username" type="text"/>
+            </div>
+  
+            <div class="p-field">
+              <label for="password">Password</label>
+              <input id="password" pPassword formControlName="password" type="password"/>
+            </div>
+  
+            <button
+            pButton
+            type="submit"
+            label="Login"
+            icon="pi pi-lock"
+            [disabled]="loginForm.invalid"
+          ></button>
+          
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  

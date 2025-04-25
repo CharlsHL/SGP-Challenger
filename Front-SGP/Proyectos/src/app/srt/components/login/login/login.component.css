@@ -1,0 +1,54 @@
+/* Centra todo el contenedor */
+.fullscreen-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ocupa toda la altura de la pantalla */
+    background-color: #f5f5f5; /* Fondo suave */
+  }
+  
+  /* Card con sombra y padding */
+  .login-card {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+  }
+  
+  /* Espaciado entre campos */
+  .p-field {
+    margin-bottom: 1.5rem;
+  }
+  
+  button[pButton] {
+    width: 100%;
+  }
+
+  button[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+  /* Centra el título del login */
+.p-card-header h3 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  /* Añade espacio entre el label y el input */
+  .p-field label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    color: #333;
+  }
+  /* Botón login más estilizado */
+button[type="submit"] {
+    width: 100%;
+    background-color: #3498db;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.75rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }

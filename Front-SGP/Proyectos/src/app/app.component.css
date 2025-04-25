@@ -1,0 +1,14 @@
+
+::ng-deep .p-calendar {
+    font-size: 14px;
+    width: 100% !important;
+  }
+  
+  ::ng-deep .p-datepicker {
+    z-index: 9999 !important; /* Para que no quede oculto */
+    transform: scale(0.9); /* Opcional: achica el calendario */
+  }
+  ::ng-deep .p-datepicker {
+    z-index: 10000 !important;
+    position: relative;
+  }

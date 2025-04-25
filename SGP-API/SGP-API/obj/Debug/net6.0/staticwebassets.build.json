@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JDoq8MprXhEOoKrCGvyC4RQi3Ny14Chp1pMglXfs+eo=",
+  "Source": "SGP-API",
+  "BasePath": "_content/SGP-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Negocio.deps.json
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Negocio.dll
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Negocio.pdb
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Datos.dll
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Modelos.dll
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Datos.pdb
+D:\Repos\SGP\SGP-API\Negocio\bin\Debug\net6.0\Modelos.pdb
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.csproj.AssemblyReference.cache
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfoInputs.cache
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.AssemblyInfo.cs
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.csproj.CoreCompileInputs.cache
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.csproj.Up2Date
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.dll
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\refint\Negocio.dll
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\Negocio.pdb
+D:\Repos\SGP\SGP-API\Negocio\obj\Debug\net6.0\ref\Negocio.dll
