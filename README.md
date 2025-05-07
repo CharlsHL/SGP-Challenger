@@ -8,9 +8,6 @@ Este repositorio contiene la solución al **SGP Challenge**, una aplicación ful
 
 / ├── Front-SGP/ # Frontend Angular │ ├── src/ │ ├── angular.json │ └── package.json ├── SGP-API/ # Backend .NET Core │ ├── Controllers/ │ ├── Data/ # DbContext y configuraciones EF Core │ ├── DTOs/ │ ├── Mappings/ # Perfiles AutoMapper │ ├── Models/ # Entidades │ ├── Repositories/ # Patrón Repository │ ├── Services/ # Patrón Service │ ├── Startup.cs │ └── SGP.API.csproj └── .gitignore
 
-markdown
-Copiar
-Editar
 
 ---
 
